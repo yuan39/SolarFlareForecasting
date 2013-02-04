@@ -1,0 +1,4 @@
+.run /var/www/flares/Default/flare_helicity_yy.pro  
+;yyfila,daystr='10',monthstr='09',yearstr='2010'
+flare_helicity_yy
+EXIT
